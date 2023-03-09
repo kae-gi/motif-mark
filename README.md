@@ -11,7 +11,7 @@ It can handle:
 - Multiple motifs (currently 7 max color wise, but technically can handle more with a larger color palette) 
 
 ### Example:
-Below is an example figure that utilizes the provided example FASTA and motif file. The key shows the motif color code. The thicker black box is the exon, and the thinner black line is the intron. 
+Below is an example figure that utilizes the provided example FASTA and motif file. The key shows the motif color code. The thicker black box is the exon, and the thinner black line are the introns. 
 
 ![Figure_1](https://user-images.githubusercontent.com/81830809/223919799-060ed3e4-c599-43c1-bc99-45d3a6bcdcc0.png)
 
