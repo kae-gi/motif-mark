@@ -1,6 +1,6 @@
 # motif-mark
 
-### *A program that visualizes motifs on sequences.* 
+### *A program that visualizes to-scale motifs on sequences.* 
 
 Given a FASTA file and motif file (file that contains the desired motifs), this program will illustrate the gene and its introns, exons, and location of motifs. Inputs from FASTA must in form of `<intron><EXON><intron>` sequences. Output is of type .png. 
 It can handle:
